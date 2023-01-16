@@ -1,6 +1,6 @@
 # reading-notes
 
-##Who is Connor?
+# #Who is Connor?
 Hey my name is Connor, I am a student on the full stack course
 I like playing music, gaming and driving!
 
