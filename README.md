@@ -2,6 +2,8 @@
 
 # Who is Connor? ![Untitled-2](https://user-images.githubusercontent.com/122747905/212668845-99f9ca1b-a95c-4fa6-ae2d-1f8fc16e3630.png)
 
+
+
 Hey my name is Connor, I am a student on the full stack course
 I like playing music, gaming and driving!
 
