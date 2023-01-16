@@ -11,6 +11,9 @@ These are my reading notes for the full stack course bootcamp where I will becom
 # What is Growth Mindset?
 Growth mindset in my opinion is using the will power within me to learn how to code and get the most out of this course as I possibly can.
 3 things to remember how to stay in a growth mindset are to:
-1. Reflect on what I have learned up to this point ***This is to remember how much knowledge I have gained since the start of the course.***
-2. Remember why I'm doing this. ***Think back to why you have taken the time to take this course, to build a better future for yourself.***
-3. Remember that if something isn't difficult it's usually not worth doing. ***Life changing decisions and career pivots are hard, but they're worth it.***
+### 1. Reflect on what I have learned up to this point.
+***This is to remember how much knowledge I have gained since the start of the course.***
+### 2. Remember why I'm doing this.
+***Think back to why you have taken the time to take this course, to build a better future for yourself.***
+### 3. Remember that if something isn't difficult it's usually not worth doing.
+***Life changing decisions and career pivots are hard, but they're worth it.***
