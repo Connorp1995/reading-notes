@@ -12,4 +12,4 @@ Growth mindset in my opinion is using the will power within me to learn how to c
 3 things to remember how to stay in a growth mindset are to:
 1. Reflect on what I have learned up to this point
 2. Remember why I'm doing this
-3. Remember that if something isn't difficult it would not be worth doing.
+3. Remember that if something isn't difficult it's usually not worth doing.
